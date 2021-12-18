@@ -1,0 +1,43 @@
+body {
+    background-color: #efbbfa;
+}
+    header { 
+    background-color:#2880b3; 
+    font-style: oblique;  
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+    border: 2px solid#677ADB;
+    text-align: center;
+}
+
+    nav {
+    background-color: #7030a5;
+    font-size: 18px;
+    font-family: sans-serif;
+    font-weight: bold;
+    border: 1px solid#677ADB;
+    text-align: center;
+    
+}
+nav {
+    float: right;
+  }
+
+nav ul li {
+    list-style: none;
+    margin-left: 285px;
+    padding: 19px 0;
+    float: left;
+    position: relative;
+  }
+  
+nav ul li a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-style:normal
+  }
+.login{
+text-align: center;
+}
+
